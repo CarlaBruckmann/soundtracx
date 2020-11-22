@@ -1,0 +1,65 @@
+:root {
+    --black: #141414;
+    --white: #fff;
+    --grey: #aaa;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Elementos base */
+
+body {
+    background: var(--black);
+    color: white;
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.container img {
+    height: 100px;
+}
+
+header nav a {
+    color: var(--white);
+    margin-right: 25px;
+}
+
+header nav a:hover {
+    color: var(--grey);
+}
+
+
+/*filme principal*/
+
+.central-film {
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url("../img/capa-supermaes.jpg");
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.title {
+    font-size: 40px;
+    color: yellow;
+}
+
+.description {
+    font-size: 15px;
+    margin-bottom: 70px;
+}
