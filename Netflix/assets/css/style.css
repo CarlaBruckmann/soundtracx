@@ -56,7 +56,7 @@ header nav a:hover {
 }
 
 .central-film .container {
-    width: 30%;
+    width: 40%;
 }
 
 .central-film .title {
@@ -120,7 +120,7 @@ header nav a:hover {
 /* carousel */
 
 .box-film {
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px;
     height: 100%;
     width: 100%;

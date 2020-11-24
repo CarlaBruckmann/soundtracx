@@ -1,0 +1,32 @@
+@media screen and (max-width: 1245px) {
+    .btn-container .btn {
+        margin-top: 10px;
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .central-film .description {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 472px) {
+    header .container nav {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    header .container nav {
+        font-size: 8px;
+    }
+}
