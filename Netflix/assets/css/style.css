@@ -13,22 +13,22 @@
 }
 
 
-/* Elementos base */
+/* elementos base */
 
 body {
     background: var(--black);
-    color: white;
+    color: var(--white);
 }
 
 header .container {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
-    font-size: 18px;
+    justify-content: space-between;
+    font-size: 15px;
 }
 
-.container img {
+header .container img {
     height: 100px;
 }
 
@@ -42,7 +42,7 @@ header nav a:hover {
 }
 
 
-/*filme principal*/
+/* filme principal */
 
 .central-film {
     background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url("../img/capa-supermaes.jpg");
@@ -53,6 +53,10 @@ header nav a:hover {
     justify-content: center;
     align-items: flex-start;
     overflow: hidden;
+}
+
+.central-film .container {
+    width: 30%;
 }
 
 .central-film .title {
@@ -80,7 +84,7 @@ header nav a:hover {
     background-color: rgba(255, 255, 255, 0.767);
     font-size: 15px;
     color: black;
-    padding: 13.8px 30px;
+    padding: 14px 30px;
 }
 
 .btn-container .btn-light:hover {
@@ -102,4 +106,23 @@ header nav a:hover {
 
 .btn-container .btn i {
     margin-right: 8px;
+}
+
+
+/* filme principal e base */
+
+.container {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+/* carousel */
+
+.box-film {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 100%;
+    width: 100%;
+    display: block;
 }
