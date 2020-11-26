@@ -52,9 +52,9 @@ header nav i {
 }
 
 header nav img {
-    width: 35px;
+    width: 30px;
+    height: 30px;
     cursor: pointer;
-    border-radius: 50%;
     vertical-align: middle;
 }
 
@@ -62,7 +62,7 @@ header nav img {
 /* filme principal */
 
 .central-film {
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)80%), url("../img/capa-atomicblonde.jpg");
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url("../img/capa-atomicblonde.jpg");
     height: 500px;
     background-size: cover;
     display: flex;
@@ -130,7 +130,7 @@ header nav img {
 
 /* carousel */
 
-.row-carousel a {
+.carousel .row-carousel a {
     display: flex;
     flex-direction: row;
     justify-content: start;
@@ -140,11 +140,25 @@ header nav img {
     color: var(--white);
 }
 
-.box-film {
+.carousel .box-film {
     margin-top: 5px;
     margin-bottom: 10px;
     height: 100%;
     width: 100%;
     display: block;
     border-radius: 4px;
+}
+
+.carousel-film .owl-carousel .owl-item:hover a::before {
+    content: " ";
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 44%;
+    left: 40%;
+    border-radius: 50px;
+    background-image: url("../img/play-carousel.png");
+    background-size: contain;
+    background-color: rgba(0, 0, 0, .50);
+    box-shadow: 0 4px 8px 0 rgba(0 0 7px 5px), rgba(238 241 230 / 13%);
 }
