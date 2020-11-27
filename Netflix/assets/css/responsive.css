@@ -1,3 +1,5 @@
+/*home*/
+
 @media screen and (max-width: 472px) {
     header .container nav {
         font-size: 13px;
@@ -22,3 +24,6 @@
         height: 100px;
     }
 }
+
+
+/*details*/
