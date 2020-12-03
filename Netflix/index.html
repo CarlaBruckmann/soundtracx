@@ -82,22 +82,26 @@
 
     <div id="boxes">
         <div id="dialog" class="window">
-            <div class="playlist-film">
-                <a href="#" class="close">Fechar [X]</a>
-                <img src="assets/img/capa-playlist-atomicblonde.jpg" alt="playlist-photo" class="playlist-photo">
-                <p>Atomic Blonde</p>
-                <p class="playlist-description">2017 - 16 músicas, 1h 10min</p>
-                <button class="btn-playlist">Play
-                <i class="fas fa-play "></i>
-            </button>
+            <div class="container-modal">
+                <i class="close far fa-times-circle"></i>
+                <p class="title-modal">Atomic Blonde</p>
+                <p class="description-modal">2017 - 16 músicas, 1h 10min</p>
+                <div class="btn-modal">
+                    <button role="button " class="btn-play-modal">
+                        <i class="fas fa-play "></i>
+                        <a href="https://open.spotify.com/playlist/6U2GRaipIAs29yWOJR4PBF " target="_blank ">Play</a>
+                    </button>
+                    <button role="button" class="btn-heart-modal">
+                        <i class="far fa-heart"></i>
+                    </button>
+                </div>
 
-
-                <b>Teste de Janela Modal</b>
             </div>
+
 
             <div class="list">
+                <p>tabela de musicas</p>
             </div>
-
 
         </div>
 
@@ -106,7 +110,9 @@
         <!-- Não remover o div#mask, pois ele é necessário para preencher toda a janela -->
 
 
-        <div id="mask"></div>
+        <div id="mask">
+
+        </div>
     </div>
 
 

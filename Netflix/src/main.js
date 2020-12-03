@@ -60,4 +60,8 @@ $(document).ready(function() {
         $(this).hide();
         $('.window').hide();
     });
+
+
+
+
 });
