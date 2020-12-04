@@ -1,18 +1,21 @@
-/* O z-index do div#mask deve ser menor que do div#boxes e do div.window */
+/*modal*/
 
 #mask {
     position: absolute;
     z-index: 9000;
-    background-color: #000;
+    background-color: #000000;
     display: none;
     top: 0;
+    width: 100%;
 }
 
 #boxes .window {
     position: absolute;
     display: none;
     z-index: 9999;
-    width: 1000px;
+    width: 80vw;
+    top: 5vh;
+    left: 10vw;
     height: 610px;
 }
 
@@ -74,6 +77,9 @@
     background: var(--black);
     padding: 30px;
 }
+
+
+/*tabela*/
 
 table {
     width: 100%;

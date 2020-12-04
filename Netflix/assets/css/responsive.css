@@ -1,11 +1,5 @@
 /*home*/
 
-@media screen and (max-width: 472px) {
-    header .container nav {
-        font-size: 13px;
-    }
-}
-
 @media screen and (max-width: 700px) {
     header .container {
         flex-direction: column;
@@ -27,3 +21,12 @@
 
 
 /*details*/
+
+@media screen and (max-width: 472px) {
+    .container-modal .description-modal {
+        font-size: 10px;
+    }
+    table tbody td {
+        font-size: 13px;
+    }
+}
