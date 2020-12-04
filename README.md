@@ -1,23 +1,33 @@
-# **Netflix interface clone**
+# **SoundtracX** 
+#### _Netflix Interface Clone_
 
 
-###  Reprodução da interface do Netflix, utilizando tecnologias HTML5, CSS3 e Javascript, para estruturação de layout, containers e variáveis, posicionamento de elementos com Flexbox, e plugins Jquery.
+### :rocket: Projeto desenvolvido para participação do Lab "Recriando a interface do Netflix" da Digital Innovation One, mediado por Felipe Aguiar.  
 
-###  Projeto desenvolvido para prática e participação do Lab "Recriando a interface do Netflix" da Digital Innovation One, mediado por Felipe Aguiar.  
-
-
-
-
-#### 🌎 Link para a página: /*[Netflix](https://index.html)*/
+### :warning: Desafio extra proposto no Lab: adicionar nova roupagem ou função ao clone.
+### :white_check_mark: Inspirado no layout da Netflix, foi criado o SOUNDTRACX, página de Playlists de Músicas apresentadas em filmes e séries, utilizando tecnologias HTML5, CSS3, JavaScript e plugins jQuery. 
 
 
-[pré-visualização - Netflix]
+
+#### 🌎 Link para a página: /*[SOUNDTRACX](https://github.com/CarlaBruckmann/netflix-interface-clone/blob/master/Netflix/index.html)*/
+
+
+[pré-visualização - Home]
+![Preview](preview.png)
+
+[pré-visualização - Details]
 ![Preview](preview.png)
 
 [pré-visualização - index.html]
 ![Preview](preview-index.png)
 
 [pré-visualização - styles.css]
+![Preview](preview-styles.png)
+
+[pré-visualização - home.css]
+![Preview](preview-styles.png)
+
+[pré-visualização - details.css]
 ![Preview](preview-styles.png)
 
 [pré-visualização - main.js]
