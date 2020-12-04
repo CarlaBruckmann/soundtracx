@@ -5,7 +5,7 @@
 ### :rocket: Projeto desenvolvido para participação do Lab "Recriando a interface do Netflix" da Digital Innovation One, mediado por Felipe Aguiar.  
 
 ### :warning: Desafio extra proposto no Lab: adicionar nova roupagem ou função ao clone.
-### :white_check_mark: Inspirado no layout da Netflix, foi criado o SOUNDTRACX, página de Playlists de Músicas apresentadas em filmes e séries, utilizando tecnologias HTML5, CSS3, JavaScript e plugins jQuery. 
+### :white_check_mark: Inspirado no layout da Netflix, foi criado o SOUNDTRACX, página de Playlists de trilhas sonoras, utilizando tecnologias HTML5, CSS3, JavaScript e plugins jQuery. 
 
 
 
