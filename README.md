@@ -1,11 +1,11 @@
-# **SoundtracX** 
-#### _Netflix Interface Clone_
+![preview](https://fontmeme.com/permalink/201125/e13d5f905e1cf19f3673047491c8e1ae.png)
+#### _Netflix Interface Clone._
 
 
 ### :rocket: Projeto desenvolvido para participação do Lab "Recriando a interface do Netflix" da Digital Innovation One, mediado por Felipe Aguiar.  
 
 ### :warning: Desafio extra proposto no Lab: adicionar nova roupagem ou função ao clone.
-### :white_check_mark: Inspirado no layout da Netflix, foi criado o SOUNDTRACX, página de Playlists de trilhas sonoras, utilizando tecnologias HTML5, CSS3, JavaScript e plugins jQuery. 
+### :white_check_mark: Inspirado no layout da Netflix, foi criado o SOUNDTRACX, página de Playlists de trilhas Sonoras, utilizando tecnologias HTML5, CSS3, JavaScript e plugins jQuery. 
 
 
 
@@ -13,10 +13,10 @@
 
 
 [pré-visualização - Home]
-![Preview](preview.png)
+![Preview](home.png)
 
 [pré-visualização - Details]
-![Preview](preview.png)
+![Preview](details.png)
 
 [pré-visualização - index.html]
 ![Preview](preview-index.png)
@@ -25,11 +25,14 @@
 ![Preview](preview-styles.png)
 
 [pré-visualização - home.css]
-![Preview](preview-styles.png)
+![Preview](preview-home.png)
 
 [pré-visualização - details.css]
-![Preview](preview-styles.png)
+![Preview](preview-details.png)
+
+[pré-visualização - responsive.css]
+![Preview](preview-responsive.png)
 
 [pré-visualização - main.js]
-![Preview](preview-styles.png)
+![Preview](preview-main.png)
 
