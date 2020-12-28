@@ -60,6 +60,10 @@
     padding: 14px 30px;
 }
 
+.container-modal .btn-play-modal i {
+    margin-right: 8px;
+}
+
 .container-modal .btn-play-modal a {
     color: var(--black);
 }
