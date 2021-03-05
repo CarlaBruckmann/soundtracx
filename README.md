@@ -9,8 +9,6 @@
 
 
 
-#### 🌎 Link para a página: /*[SOUNDTRACX](https://github.com/CarlaBruckmann/netflix-interface-clone/blob/master/Netflix/index.html)*/
-
 
 [pré-visualização - Home]
 ![Preview](home.png)
