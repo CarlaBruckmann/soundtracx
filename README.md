@@ -8,29 +8,16 @@
 ### :white_check_mark: Inspirado no layout da Netflix, foi criado o SOUNDTRACX, página de Playlists de trilhas Sonoras, utilizando tecnologias HTML5, CSS3, JavaScript e plugins jQuery. 
 
 
+🌎 [Soundtracx](https://bit.ly/3wuRUDV)
+
+[Preview - Home]
+<img src="https://github.com/CarlaBruckmann/soundtracx/blob/master/preview/home.png" alt="preview home" width="100%"/>
+
+<br>
+
+[Preview - Details]
+
+<img src="https://github.com/CarlaBruckmann/soundtracx/blob/master/preview/details.png" alt="preview details" width="100%"/>
 
 
-[pré-visualização - Home]
-![Preview](home.png)
-
-[pré-visualização - Details]
-![Preview](details.png)
-
-[pré-visualização - index.html]
-![Preview](preview-index.png)
-
-[pré-visualização - styles.css]
-![Preview](preview-styles.png)
-
-[pré-visualização - home.css]
-![Preview](preview-home.png)
-
-[pré-visualização - details.css]
-![Preview](preview-details.png)
-
-[pré-visualização - responsive.css]
-![Preview](preview-responsive.png)
-
-[pré-visualização - main.js]
-![Preview](preview-main.png)
 
